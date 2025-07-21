@@ -28,8 +28,6 @@ Explore the interactive movie budget vs revenue dashboard on Tableau Public:
 
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/chris.chugg/viz/tmdb_17526186189750/Dashboard1)
 
-## How to Use  
-1. Load the cleaned dataset into your SQL environment (e.g., SQLite).  
-2. Run the SQL queries in the `/sql/` folder to reproduce the analysis.  
+
 
 
